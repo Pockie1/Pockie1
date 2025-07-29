@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Pockie1/Pockie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code Stuff
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+languages I know
+
+[![languages I know](https://skillicons.dev/icons?i=lua,html,css,cs)](https://skillicons.dev)
+
+languages I'm learning
+
+
+[![languages I know](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+
+
+Software I use
+
+
+[![software i use](https://skillicons.dev/icons?i=unity,vscode,visualstudio,robloxstudio,idea)](https://skillicons.dev)
+
